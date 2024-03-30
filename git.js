@@ -3,6 +3,7 @@ const execSync = require('child_process').execSync
 const path = require('path')
 const pullAction = function () {
         const timer = setTimeout(function () {
+                // zgh分支的提交1
                 // ceshiyixiakdk
 		// 要拉取的仓库在本地的路径
 		// --git-dir 要拉取的仓库中.git在本地的路径
